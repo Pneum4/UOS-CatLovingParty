@@ -1,2 +1,2 @@
-Market Research  
-hey my name is Seo MyeongGyo
+Market Research
+*  hey my name is Seo MyeongGyo
