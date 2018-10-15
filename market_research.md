@@ -1,2 +1,4 @@
 Market Research
-dddddddddddddddddddddddd
+*  hey my name is Seo MyeongGyo
+
+ddddddddddddddddddddddd
