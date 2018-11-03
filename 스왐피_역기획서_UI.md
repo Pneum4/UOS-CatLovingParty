@@ -19,19 +19,19 @@
             * 다시하기
             * 다음
             * 레벨
-        * [스왐피를 만나봐](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/스왐피를_만나봐.md)
-        * [골칫거리 물](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/골칫거리_물.md)
-        * [압력](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/압력.md)
-        * [가라앉거나 헤엄치거나](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/가라앉거나_헤엄치거나.md)
-        * [변화는 좋은 것](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/변화는_좋은_것.md)
-        * [끓는 점](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/끓는_점.md)
-        * [너무 모자라](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/너무_모자라.md)
-        * [바람 저항](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/바람_저항.md)
-        * [밀물](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/밀물.md)
-        * [널어 말려](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/스왐피_스테이지/널어_말려.md)
+        * [스왐피를 만나봐](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/스왐피를_만나봐.md)
+        * [골칫거리 물](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/골칫거리_물.md)
+        * [압력](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/압력.md)
+        * [가라앉거나 헤엄치거나](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/가라앉거나_헤엄치거나.md)
+        * [변화는 좋은 것](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/변화는_좋은_것.md)
+        * [끓는 점](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/끓는_점.md)
+        * [너무 모자라](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/너무_모자라.md)
+        * [바람 저항](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/바람_저항.md)
+        * [밀물](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/밀물.md)
+        * [널어 말려](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/스왐피_스테이지/널어_말려.md)
         * 스왐피 2
           * 클릭시 PlayStore의 스왐피 2로 연결된다.
-      * [콜렉션](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/컬렉션.md)
+      * [콜렉션](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/컬렉션.md)
         * 보너스 스테이지
           * 설명 : 보너스 스테이지는 다른 일반적인 스테이지와 달리 오리 3마리에게 물을 흡수시키는 것이 목표이며, 스마트폰을 기울여서 중력에 변화를 줄 수 있다. 예를 들어 스마트 폰을 오른쪽으로 기울이면, 스테이지 속 액체는 모두 오른쪽으로 흐른다.
         * 보너스 스테이지 1 - 모래시계
@@ -42,7 +42,7 @@
         * 보너스 스테이지 2 ~ 20
           * 스테이지 1과 마찬가지로 3개의 컬렉션 아이템이 존재하고, 보너스 스테이지 룰이 적용된다.
         * 뒤로가기
-      * [기록](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/기록.md)
+      * [기록](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/기록.md)
         * 도전과제
         * 초상화
         * 뒤로가기
@@ -65,7 +65,7 @@
   * 설정
     * 배경음악 음소거 버튼
     * 효과음 음소거 버튼
-    * [언어](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서/언어.md)
+    * [언어](https://github.com/Pneum4/UOS-CatLovingParty/blob/master/스왐피_역기획서_UI/언어.md)
     * 프로필
       * 게임 초기화
     * 개발자
