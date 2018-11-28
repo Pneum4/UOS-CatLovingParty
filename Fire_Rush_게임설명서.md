@@ -65,7 +65,7 @@
   * 스프레이 스테이지는 스프레이를 사용하지 않으면 클리어를 할 수 없어야 한다.
 
 ## 오브젝트
-  ![이미지](https://github.com/Pneum4/UOS-CatLovingParty/blob/2018920055_5/FR%20image/object.png)
+  ![이미지](./Fire_Rush_Image/object.png)
 
 ## 스테이지 별 레벨 구현
 ### 범례
