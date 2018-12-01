@@ -80,7 +80,7 @@
 ![종이](./Fire_Rush_Image/Stages/legend/paper.png) | 종이 | ![선풍기](./Fire_Rush_Image/Stages/legend/fan.png) | 선풍기 | ![도착점](./Fire_Rush_Image/Stages/legend/spray.png) | 스프레이
 
 ### 스테이지 1
-#### 레벨 1
+#### [레벨 1](./Fire_Rush_Image/For_Print/S1L1.PNG)
 ![스테이지 1 - 레벨 1](./Fire_Rush_Image/Stages/S1L1.png)
 
 등급 | 조건
@@ -89,7 +89,7 @@
 ★★ | -
 ★ | -
 
-#### 레벨 2
+#### [레벨 2](./Fire_Rush_Image/For_Print/S1L2.PNG)
 ![스테이지 1 - 레벨 2](./Fire_Rush_Image/Stages/S1L2.png)
 
 등급 | 조건
@@ -99,7 +99,7 @@
 ★ | 불 1개 이상 보존
 
 ### 스테이지 2
-#### 레벨 1
+#### [레벨 1](./Fire_Rush_Image/For_Print/S2L1.PNG)
 ![스테이지 2 - 레벨 1](./Fire_Rush_Image/Stages/S2L1.png)
 
 등급 | 조건
@@ -108,7 +108,7 @@
 ★★ | -
 ★ | -
 
-#### 레벨 2
+#### [레벨 2](./Fire_Rush_Image/For_Print/S2L2.PNG)
 ![스테이지 2 - 레벨 2](./Fire_Rush_Image/Stages/S2L2.png)
 
 등급 | 조건
@@ -118,7 +118,7 @@
 ★ | 불 1개 이상 보존
 
 ### 스테이지 3
-#### 레벨 1
+#### [레벨 1](./Fire_Rush_Image/For_Print/S3L1.PNG)
 ![스테이지 3 - 레벨 1](./Fire_Rush_Image/Stages/S3L1.png)
 
 등급 | 조건
@@ -127,7 +127,7 @@
 ★★ | -
 ★ | -
 
-#### 레벨 2
+#### [레벨 2](./Fire_Rush_Image/For_Print/S3L2.PNG)
 ![스테이지 3 - 레벨 2](./Fire_Rush_Image/Stages/S3L2.png)
 
 등급 | 조건
