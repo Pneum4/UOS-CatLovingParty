@@ -67,8 +67,8 @@
   * 스프레이 스테이지는 스프레이를 사용하지 않으면 클리어를 할 수 없어야 한다.
 
 ## 오브젝트
-  ![오브젝트](./Fire_Rush_Image/Objects/Object.png)
-  ![도착점](./Fire_Rush_Image/Objects/End_Point_Object.png)
+  ![오브젝트](./Fire_Rush_Image/Objects/Object.PNG)
+  ![도착점](./Fire_Rush_Image/Objects/End_Point_Object.PNG)
 
 ## 스테이지 별 레벨 구현
 ### 범례
