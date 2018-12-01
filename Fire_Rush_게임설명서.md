@@ -1,4 +1,4 @@
-# Fire Rush 게임설명서
+﻿# Fire Rush 게임설명서
 
 ## 게임 시나리오
 
@@ -74,13 +74,13 @@
 
 표현 | 의미 | 표현 | 의미 | 표현 | 의미
 -- | -- | -- | -- | -- | --
-![시작점](./Fire_Rush_Image/legend/startpoint.png) | 시작점 | ![도착점](./Fire_Rush_Image/legend/endpoint.png) | 도착점 | ![밧줄](./Fire_Rush_Image/legend/rope.png) | 밧줄
-![벽](./Fire_Rush_Image/legend/wall.png) | 벽 | ![장작](./Fire_Rush_Image/legend/firewood.png) | 장작 | ![물](./Fire_Rush_Image/legend/water.png) | 물
-![종이](./Fire_Rush_Image/legend/paper.png) | 종이 | ![선풍기](./Fire_Rush_Image/legend/fan.png) | 선풍기 | ![도착점](./Fire_Rush_Image/legend/spray.png) | 스프레이
+![시작점](./Fire_Rush_Image/stages/legend/startpoint.png) | 시작점 | ![도착점](./Fire_Rush_Image/stages/legend/endpoint.png) | 도착점 | ![밧줄](./Fire_Rush_Image/stages/legend/rope.png) | 밧줄
+![벽](./Fire_Rush_Image/stages/legend/wall.png) | 벽 | ![장작](./Fire_Rush_Image/stages/legend/firewood.png) | 장작 | ![물](./Fire_Rush_Image/stages/legend/water.png) | 물
+![종이](./Fire_Rush_Image/stages/legend/paper.png) | 종이 | ![선풍기](./Fire_Rush_Image/stages/legend/fan.png) | 선풍기 | ![도착점](./Fire_Rush_Image/stages/legend/spray.png) | 스프레이
 
 ### 스테이지 1
 #### 레벨 1
-![스테이지 1 - 레벨 1](./Fire_Rush_Image/S1L1.png)
+![스테이지 1 - 레벨 1](./Fire_Rush_Image/stages/S1L1.png)
 
 등급 | 조건
 -- | --
@@ -89,7 +89,7 @@
 ★ | -
 
 #### 레벨 2
-![스테이지 1 - 레벨 2](./Fire_Rush_Image/S1L2.png)
+![스테이지 1 - 레벨 2](./Fire_Rush_Image/stages/S1L2.png)
 
 등급 | 조건
 -- | --
@@ -99,7 +99,7 @@
 
 ### 스테이지 2
 #### 레벨 1
-![스테이지 2 - 레벨 1](./Fire_Rush_Image/S2L1.png)
+![스테이지 2 - 레벨 1](./Fire_Rush_Image/stages/S2L1.png)
 
 등급 | 조건
 -- | --
@@ -108,7 +108,7 @@
 ★ | -
 
 #### 레벨 2
-![스테이지 2 - 레벨 2](./Fire_Rush_Image/S2L2.png)
+![스테이지 2 - 레벨 2](./Fire_Rush_Image/stages/S2L2.png)
 
 등급 | 조건
 -- | --
@@ -118,7 +118,7 @@
 
 ### 스테이지 3
 #### 레벨 1
-![스테이지 3 - 레벨 1](./Fire_Rush_Image/S3L1.png)
+![스테이지 3 - 레벨 1](./Fire_Rush_Image/stages/S3L1.png)
 
 등급 | 조건
 -- | --
@@ -127,7 +127,7 @@
 ★ | -
 
 #### 레벨 2
-![스테이지 3 - 레벨 2](./Fire_Rush_Image/S3L2.png)
+![스테이지 3 - 레벨 2](./Fire_Rush_Image/stages/S3L2.png)
 
 등급 | 조건
 -- | --
