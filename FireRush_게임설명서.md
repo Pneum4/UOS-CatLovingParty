@@ -67,21 +67,21 @@
   * 스프레이 스테이지는 스프레이를 사용하지 않으면 클리어를 할 수 없어야 한다.
 
 ## 오브젝트
-  ![오브젝트](./Fire_Rush_Image/Objects/Objects.PNG)
-  ![도착점](./Fire_Rush_Image/Objects/End_Point_Object.PNG)
+  ![오브젝트](./FireRush_Image/Objects/Objects.PNG)
+  ![도착점](./FireRush_Image/Objects/End_Point_Object.PNG)
 
 ## 스테이지 별 레벨 구현
 ### 범례
 
 표현 | 의미 | 표현 | 의미 | 표현 | 의미
 -- | -- | -- | -- | -- | --
-![시작점](./Fire_Rush_Image/Stages/legend/startpoint.png) | 시작점 | ![도착점](./Fire_Rush_Image/Stages/legend/endpoint.png) | 도착점 | ![밧줄](./Fire_Rush_Image/Stages/legend/rope.png) | 밧줄
-![벽](./Fire_Rush_Image/Stages/legend/wall.png) | 벽 | ![장작](./Fire_Rush_Image/Stages/legend/firewood.png) | 장작 | ![물](./Fire_Rush_Image/Stages/legend/water.png) | 물
-![종이](./Fire_Rush_Image/Stages/legend/paper.png) | 종이 | ![선풍기](./Fire_Rush_Image/Stages/legend/fan.png) | 선풍기 | ![도착점](./Fire_Rush_Image/Stages/legend/spray.png) | 스프레이
+![시작점](./FireRush_Image/Stages/legend/startpoint.png) | 시작점 | ![도착점](./FireRush_Image/Stages/legend/endpoint.png) | 도착점 | ![밧줄](./FireRush_Image/Stages/legend/rope.png) | 밧줄
+![벽](./FireRush_Image/Stages/legend/wall.png) | 벽 | ![장작](./FireRush_Image/Stages/legend/firewood.png) | 장작 | ![물](./FireRush_Image/Stages/legend/water.png) | 물
+![종이](./FireRush_Image/Stages/legend/paper.png) | 종이 | ![선풍기](./FireRush_Image/Stages/legend/fan.png) | 선풍기 | ![도착점](./FireRush_Image/Stages/legend/spray.png) | 스프레이
 
 ### 스테이지 1
-#### [레벨 1](./Fire_Rush_Image/For_Print/S1L1.PNG)
-![스테이지 1 - 레벨 1](./Fire_Rush_Image/Stages/S1L1.png)
+#### [레벨 1](./FireRush_Image/For_Print/S1L1.PNG)
+![스테이지 1 - 레벨 1](./FireRush_Image/Stages/S1L1.png)
 
 등급 | 조건
 -- | --
@@ -89,8 +89,8 @@
 ★★ | 밧줄을 1개 이상 남기기 / 불 3개이상 보존
 ★ | 밧줄을 2개 이상 남기기
 
-#### [레벨 2](./Fire_Rush_Image/For_Print/S1L2.PNG)
-![스테이지 1 - 레벨 2](./Fire_Rush_Image/Stages/S1L2.png)
+#### [레벨 2](./FireRush_Image/For_Print/S1L2.PNG)
+![스테이지 1 - 레벨 2](./FireRush_Image/Stages/S1L2.png)
 
 등급 | 조건
 -- | --
@@ -99,8 +99,8 @@
 ★ | 불 1개 이상 보존
 
 ### 스테이지 2
-#### [레벨 1](./Fire_Rush_Image/For_Print/S2L1.PNG)
-![스테이지 2 - 레벨 1](./Fire_Rush_Image/Stages/S2L1.png)
+#### [레벨 1](./FireRush_Image/For_Print/S2L1.PNG)
+![스테이지 2 - 레벨 1](./FireRush_Image/Stages/S2L1.png)
 
 등급 | 조건
 -- | --
@@ -108,8 +108,8 @@
 ★★ | 밧줄 1개 이상 남기기 / 불 2개이상 보존
 ★ | 밧줄 2개 이상 남기기 / 불 1개 이상 보존
 
-#### [레벨 2](./Fire_Rush_Image/For_Print/S2L2.PNG)
-![스테이지 2 - 레벨 2](./Fire_Rush_Image/Stages/S2L2.png)
+#### [레벨 2](./FireRush_Image/For_Print/S2L2.PNG)
+![스테이지 2 - 레벨 2](./FireRush_Image/Stages/S2L2.png)
 
 등급 | 조건
 -- | --
@@ -118,8 +118,8 @@
 ★ | 불 1개 이상 보존
 
 ### 스테이지 3
-#### [레벨 1](./Fire_Rush_Image/For_Print/S3L1.PNG)
-![스테이지 3 - 레벨 1](./Fire_Rush_Image/Stages/S3L1.png)
+#### [레벨 1](./FireRush_Image/For_Print/S3L1.PNG)
+![스테이지 3 - 레벨 1](./FireRush_Image/Stages/S3L1.png)
 
 등급 | 조건
 -- | --
@@ -127,8 +127,8 @@
 ★★ | 오브젝트를 1개 이상 남기기 / 불 3개 이상 남기기
 ★ | 오브젝트 및 밧줄을 2개 이상 남기기 / 불 2개 이상 남기기
 
-#### [레벨 2](./Fire_Rush_Image/For_Print/S3L2.PNG)
-![스테이지 3 - 레벨 2](./Fire_Rush_Image/Stages/S3L2.png)
+#### [레벨 2](./FireRush_Image/For_Print/S3L2.PNG)
+![스테이지 3 - 레벨 2](./FireRush_Image/Stages/S3L2.png)
 
 등급 | 조건
 -- | --
